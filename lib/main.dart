@@ -278,7 +278,7 @@ class Field extends HookConsumerWidget {
             textAlign: TextAlign.end,
             style: TextStyle(
               fontSize: 20,
-              color: const Color(0xFFADC6FF),
+              color: const Color(0xFFFFB2BE),
             )),
       ],
     );
